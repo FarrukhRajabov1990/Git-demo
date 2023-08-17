@@ -1,0 +1,4 @@
+*.db
+*.log
+!**/src/main/**/target/
+!**/src/main/**/bin/
